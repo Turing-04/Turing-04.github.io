@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "853246aca77ced8d9094",
+    "revision": "5d556b232a0930442bac",
     "url": "./static/css/main.f39b8a9d.chunk.css"
   },
   {
-    "revision": "853246aca77ced8d9094",
-    "url": "./static/js/main.853246ac.chunk.js"
+    "revision": "5d556b232a0930442bac",
+    "url": "./static/js/main.5d556b23.chunk.js"
   },
   {
     "revision": "c0d850e1296c0a3903a2",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "./static/media/five_handwritten_de.57393750.png"
   },
   {
-    "revision": "d71d21032afc6f89fdd0ec801e007983",
+    "revision": "0789def1909b6f62a168a9a38f4bd13e",
     "url": "./index.html"
   }
 ];
